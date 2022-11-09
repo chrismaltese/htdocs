@@ -1,0 +1,30 @@
+Lookups	3579 (4377)
+See Also	W2CLM/P W2CLM/QRP
+QRZ Record#	1598219
+QRZ Admin	W2CLM
+Date Joined	2018-07-29 21:59:23
+Last Update	2022-06-20 19:15:48
+Class	General Codes: HVIE
+Effective	2018-08-07
+Expires	2028-11-04
+Latitude	26.566446 (26° 33' 59'' N)
+Longitude	-80.105184 (80° 6' 18'' W)
+Grid Square	EL96wn
+Geo Source	User supplied
+US State	Florida
+US County	Palm Beach
+Sunrise	11:35:28 UTC
+Sunset	22:33:02 UTC
+ITU Zone	8
+CQ Zone	5
+IOTA	NA-141 Florida State South East (Dade to Indian River County) group
+GMT Offset	-5 hours
+FCC Record #	3054020 
+QSL Info	LOTW, DIRECT
+QSL by Mail?	Yes (e.g. Will this ham QSL by Postal Mail?)
+QSL by eQSL?	No (e.g. Will this ham QSL with eQSL?)
+Uses LOTW?	Yes (e.g. Does this ham use ARRL's LOTW ?)
+Other
+Callsigns	
+Alias	Comment
+WA2MOY	Previous callsign
